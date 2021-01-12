@@ -1,0 +1,5 @@
+Ing, buenas tardes
+Le comunico que en este proyecto de flutter, mi android tiene problemas para ejecutar el proyecto y he estado buscando una manera de solucionar el que tengo, pero mientras más busco e intento solucionarlo me bota cada vez más más errores y no he podido solucionarlo hasta ahora.
+Disculpe ing que no pueda realizar el laboratorio, pero cuando quería instalar el flutter en mi PC me salían errores y tardé bastante tiempo en arreglar ese error. Ahora intento solucionar los nuevos al querer ejecutar o hacer correr el proyecto en flutter pero parece que SDK no lo encuentra y además los  dispositivos virtuales e incluso mi propio celular no lo reconoce.
+Creo que para solucionar este problema tendré que comprar un nuevo disco con más espacio de almacenamiento, pero ahora no se si mis padres tengan el dinero suficiente.
+Espero entienda mi situación y sin más que decir, hasta otra oportunidad Ingeniero.
